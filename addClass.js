@@ -1,2 +1,1 @@
-var header = document.querySelector("#cabecalho");
-header.classList.add("cabecalho");
+var header = document.querySelector("#cabecalho").classList.add("cabecalho");

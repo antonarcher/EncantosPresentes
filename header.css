@@ -1,9 +1,9 @@
-.cabecalho .row-fluid{
+#cabecalho .row-fluid{
     margin: 0 auto;
     max-width: 1140px;
 }
 
-.cabecalho .container{
+#cabecalho .container{
     margin: 0 auto;
     max-width: none;
     padding: 0;
