@@ -24,6 +24,8 @@
 .busca{
     background-color: #fff;
     border: none;
+    max-width: 500px;
+    margin: 0 auto;
 }
 
 .busca .botao-busca{
