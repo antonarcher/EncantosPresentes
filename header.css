@@ -13,7 +13,7 @@
     background-color: #f7f7f7;
 }
 
-.canais-contato ul {
+.canais-contato li {
     color: #868686;
 }
 
@@ -28,18 +28,32 @@
     margin-top: 5px;
 }
 
-.menu.superior li {
+.menu.superior i {
+    background-color: #d9501f;
+}
+
+.menu.superior i:hover {
+    background-color: #d9501f;
+    color: #fff2ee;
+}
+
+.menu.superior strong {
     color: #fff;
     font-family: ruda;
     font-weight: 600;
     text-transform: uppercase;
 }
 
+.menu.superior .nivel-um>li:hover {
+    border-top-width: 0px;
+    /* margin-top: -2px; */
+}
+
 /* Pesquisa*/
 .busca{
     background-color: #fff;
     border: none;
-    max-width: 500px;
+    max-width: 400px;
     margin: 0 auto;
 }
 
