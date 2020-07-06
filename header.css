@@ -9,6 +9,14 @@
     padding: 0;
 }
 
+.barra-inicial {
+    background-color: #f7f7f7;
+}
+
+.canais-contato ul {
+    color: #868686;
+}
+
 /* Menu das categorias  git*/
 .superior ul {
     margin: 0 auto;
@@ -17,7 +25,14 @@
 
 .menu.superior {
     background-color: #d9501f;
-    margin-top: 0px;
+    margin-top: 5px;
+}
+
+.menu.superior li {
+    color: #fff;
+    font-family: ruda;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 
 /* Pesquisa*/
@@ -43,7 +58,7 @@
 /* Icones*/
 .carrinho .icon-shopping-cart{
     font-size: 18px;
-    background-color: #a6d8df;;
+    background-color: #d9501f;
 }
 
 .span4 i{
