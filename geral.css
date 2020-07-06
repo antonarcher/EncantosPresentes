@@ -6,3 +6,7 @@ body{
 .conteiner-principal .conteiner {
     box-shadow: none;
 }
+
+i{
+    border-radius: 30px;
+}
