@@ -37,3 +37,28 @@
     border-radius: 30px;
     padding-left: 12px;
 }
+
+/* Icones*/
+.icon-shopping-cart{
+    font-size: 18px;
+}
+
+.icon-list, .icon-user{
+    font-size: 10px;
+}
+
+/* Bem vindo*/
+.span8{
+    text-align: center;
+}
+
+/*Carrinho*/
+
+.carrinho{
+    border: none;
+}
+
+.carrinho>a span {
+    line-height: 17px;
+    padding: 3px 0 0;
+}
