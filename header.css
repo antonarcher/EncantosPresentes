@@ -37,6 +37,11 @@
     color: #fff2ee;
 }
 
+.menu li:hover>a .fundo-secundario{
+    background-color: #d9501f;
+}
+
+
 .menu.superior strong {
     color: #fff;
     font-family: ruda;
