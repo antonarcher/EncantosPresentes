@@ -1,6 +1,6 @@
 #cabecalho .row-fluid{
     margin: 0 auto;
-    max-width: none;
+    max-width: 1140px;
 }
 
 #cabecalho .container{

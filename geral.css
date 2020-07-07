@@ -10,3 +10,9 @@ body{
 i{
     border-radius: 30px;
 }
+
+#cabecalho .container{
+    margin: 0 auto;
+    max-width: none;
+    padding: 0;
+}
