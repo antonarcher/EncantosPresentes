@@ -1,6 +1,6 @@
 #cabecalho .row-fluid{
     margin: 0 auto;
-    max-width: 1140px;
+    max-width: none;
 }
 
 #cabecalho .container{
@@ -13,7 +13,10 @@
     background-color: #f7f7f7;
 }
 
-.canais-contato li {
+.canais-contato a {
+    color: #868686;
+}
+.canais-contato span {
     color: #868686;
 }
 
