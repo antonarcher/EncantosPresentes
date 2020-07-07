@@ -14,10 +14,10 @@
 }
 
 .canais-contato a {
-    color: #868686;
+    color: #868686 !important;
 }
 .canais-contato span {
-    color: #868686;
+    color: #868686 !important;
 }
 
 /* Menu das categorias  git*/
